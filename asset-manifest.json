@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valday2021/static/css/main.6f17d363.chunk.css",
+    "main.js": "/valday2021/static/js/main.3ec7df47.chunk.js",
+    "main.js.map": "/valday2021/static/js/main.3ec7df47.chunk.js.map",
+    "runtime-main.js": "/valday2021/static/js/runtime-main.88f6dcc0.js",
+    "runtime-main.js.map": "/valday2021/static/js/runtime-main.88f6dcc0.js.map",
+    "static/js/2.52f05909.chunk.js": "/valday2021/static/js/2.52f05909.chunk.js",
+    "static/js/2.52f05909.chunk.js.map": "/valday2021/static/js/2.52f05909.chunk.js.map",
+    "static/js/3.845cc7d7.chunk.js": "/valday2021/static/js/3.845cc7d7.chunk.js",
+    "static/js/3.845cc7d7.chunk.js.map": "/valday2021/static/js/3.845cc7d7.chunk.js.map",
+    "index.html": "/valday2021/index.html",
+    "static/css/main.6f17d363.chunk.css.map": "/valday2021/static/css/main.6f17d363.chunk.css.map",
+    "static/js/2.52f05909.chunk.js.LICENSE.txt": "/valday2021/static/js/2.52f05909.chunk.js.LICENSE.txt",
+    "static/media/drawing.ce668c10.svg": "/valday2021/static/media/drawing.ce668c10.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88f6dcc0.js",
+    "static/js/2.52f05909.chunk.js",
+    "static/css/main.6f17d363.chunk.css",
+    "static/js/main.3ec7df47.chunk.js"
+  ]
+}
