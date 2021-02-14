@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/valday2021/static/css/main.6f17d363.chunk.css",
-    "main.js": "/valday2021/static/js/main.3ec7df47.chunk.js",
-    "main.js.map": "/valday2021/static/js/main.3ec7df47.chunk.js.map",
+    "main.js": "/valday2021/static/js/main.172a5eb7.chunk.js",
+    "main.js.map": "/valday2021/static/js/main.172a5eb7.chunk.js.map",
     "runtime-main.js": "/valday2021/static/js/runtime-main.88f6dcc0.js",
     "runtime-main.js.map": "/valday2021/static/js/runtime-main.88f6dcc0.js.map",
     "static/js/2.52f05909.chunk.js": "/valday2021/static/js/2.52f05909.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.88f6dcc0.js",
     "static/js/2.52f05909.chunk.js",
     "static/css/main.6f17d363.chunk.css",
-    "static/js/main.3ec7df47.chunk.js"
+    "static/js/main.172a5eb7.chunk.js"
   ]
 }
